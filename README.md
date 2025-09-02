@@ -19,4 +19,4 @@ This platform enables smooth registration, user management, and provides an easy
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sih-registration.git
+   git clone https://github.com/Pratyushs411/sih-portal.git
