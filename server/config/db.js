@@ -10,7 +10,7 @@ dotenv.config({ path: "./config.env" });
 //   "<password>",
 //   process.env.PASSWORD
 // );
-
+// Please use .env for credentials ,following db does not exist
 mongoose
   .connect("mongodb+srv://pratyushksk:H6CEEzmgsP7AMDoU@cluster0.bvmxb.mongodb.net/")
   .then(function (i){
